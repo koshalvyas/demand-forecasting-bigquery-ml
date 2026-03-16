@@ -46,15 +46,7 @@ FROM `bigquery-public-data.new_york.citibike_trips`
 GROUP BY 1, 2;
 ```
 
----
 
-## 📁 Results
-![Forecast Output](screenshots/forecast_output.png)
-
----
-
-## 🏅 Certificate
-Completed via **Google Cloud Skills Boost** — [View Course](https://www.cloudskillsboost.google/focuses/16547?parent=catalog)
 
 ---
 
